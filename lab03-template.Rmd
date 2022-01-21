@@ -1,0 +1,50 @@
+---
+title: "Lab 03"
+subtitle: "due [date] 11:59 PM "
+author: ""
+date: ""
+editor_options: 
+  chunk_output_type: console
+output:
+  pdf_document: default
+---
+
+```{r load-packages, message = FALSE}
+library(tidyverse)
+```
+
+# Exercise 1
+
+```{r ex-1}
+```
+
+# Exercise 2
+
+```{r ex-2}
+```
+
+
+# Exercise 3
+
+```{r ex-3}
+```
+
+
+# Exercise 4
+
+```{r ex-4}
+```
+
+
+# Exercise 5
+
+```{r ex-5}
+```
+
+
+# Exercise 6
+
+```{r ex-6}
+```
+
+Discuss your plot here, answering all of the questions in the prompt.
